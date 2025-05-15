@@ -1,0 +1,31 @@
+        static void fel06()
+        {
+            //péz vagy fej írás, random
+            Random rnd = new Random();
+
+            Console.Write("Kérem add meg hányszor generáljunk fej vagy írást: ");
+            int db = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine( "Fájl írás..." );
+            StreamWriter irocsatorna = new StreamWriter(@"C:\Munka\iskolaHazi\FejIras.txt", false, Encoding.GetEncoding("iso-8859-2"));
+
+            
+            for (int i = 0; i < db; i++)
+            {
+                int randomSzam = rnd.Next(0, 2);
+
+                if (randomSzam == 0)
+                {
+                    irocsatorna.WriteLine("I");
+                }
+                else
+                { 
+                    irocsatorna.WriteLine("F"); 
+                }
+
+            }
+            irocsatorna.Close();
+            Console.WriteLine("Fájl írás vége...");
+            Console.ReadKey();
+
+        }
