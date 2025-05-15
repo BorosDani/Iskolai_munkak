@@ -7,7 +7,7 @@
             int db = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine( "Fájl írás..." );
-            StreamWriter irocsatorna = new StreamWriter(@"C:\Munka\iskolaHazi\FejIras.txt", false, Encoding.GetEncoding("iso-8859-2"));
+            StreamWriter irocsatorna = new StreamWriter(@"C:\Munka\iskolaHazi\penzfeldobas.txt", false, Encoding.GetEncoding("iso-8859-2"));
 
             
             for (int i = 0; i < db; i++)
