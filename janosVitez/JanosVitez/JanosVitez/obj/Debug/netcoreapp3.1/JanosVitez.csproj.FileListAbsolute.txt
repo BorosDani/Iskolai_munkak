@@ -1,0 +1,3 @@
+Z:\prigi\janosVitez\JanosVitez\JanosVitez\obj\Debug\netcoreapp3.1\JanosVitez.csprojAssemblyReference.cache
+Z:\prigi\janosVitez\JanosVitez\JanosVitez\obj\Debug\netcoreapp3.1\JanosVitez.AssemblyInfoInputs.cache
+Z:\prigi\janosVitez\JanosVitez\JanosVitez\obj\Debug\netcoreapp3.1\JanosVitez.AssemblyInfo.cs

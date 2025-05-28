@@ -1,0 +1,6 @@
+Z:\prigi\janosVitez\janisvitez\janisvitez\bin\Debug\janisvitez.exe.config
+Z:\prigi\janosVitez\janisvitez\janisvitez\bin\Debug\janisvitez.exe
+Z:\prigi\janosVitez\janisvitez\janisvitez\bin\Debug\janisvitez.pdb
+Z:\prigi\janosVitez\janisvitez\janisvitez\obj\Debug\janisvitez.csprojAssemblyReference.cache
+Z:\prigi\janosVitez\janisvitez\janisvitez\obj\Debug\janisvitez.exe
+Z:\prigi\janosVitez\janisvitez\janisvitez\obj\Debug\janisvitez.pdb
