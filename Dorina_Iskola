@@ -1,7 +1,0 @@
-                for (int i = 1; i < darabol.Length; i++)
-                {
-                    if (leghosszabb_szo.Length < darabol[i].Length)
-                    {
-                        leghosszabb_szo = darabol[i];
-                    }
-                }
